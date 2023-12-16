@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
+I am an aspiring developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started with Progmeistars, where I ended a course. After the course there was a gap of a couple of years where I tried my hand in many directions, tried learning C++, JavaScipt + React! From December 2021 to December 2023 I have been working hard to develop my skills in Python and various libraries
 
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
