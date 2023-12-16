@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am an aspiring developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started with Progmeistars, where I ended a course. After the course there was a gap of a couple of years where I tried my hand in many directions, tried learning C++, JavaScipt + React! From December 2021 to December 2023 I have been working hard to develop my skills in Python and various libraries
+I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started with Progmeistars, where I ended a course. After the course there was a gap of a couple of years where I tried my hand in many directions, tried learning C++, JavaScipt + React! From December 2021 to December 2023 I have been working hard to develop my skills in Python and various libraries
 
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
