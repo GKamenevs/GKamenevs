@@ -8,12 +8,6 @@
 I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started with Progmeistars, where I ended a course. After the course there was a gap of a couple of years where I tried my hand in many directions, tried learning C++, JavaScipt + React! From December 2021 to December 2023 I have been working hard to develop my skills in Python and various libraries
 
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
-
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
-
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
-
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-gkamenevs-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kamenevskis) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:georgijs.kamenevs@gmail.com)
 
 ---
@@ -57,20 +51,17 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+ ### 💻 Courses:
 
-| Курсы                                                           | Дата              |
+| Courses                                                         | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| Progmeistars(GoLang)                                            | 09/2017 - 05/2019 |
+| udemy.com/js + react                                            | 02/2021 - 06/2021 |
+| codeacademy.com/pandas                                          | 08/2023 - 11/2023 |
+| codeaacdemy.com/django                                          | 06/2023 - 08/2023 |
+| codeacademy.com/datascience                                     | 01/2023 - 09/2023 |
 
---- -->
+
 
 ### 💻 LeetCode:
 
