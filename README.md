@@ -74,7 +74,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![LeetCode Stats](https://leetcard.jacoblin.cool/GKamenevs?theme=dark&font=Noto%20Serif%20Malayalam)
 
 ### ⚙️ GitHub статистика:
 
