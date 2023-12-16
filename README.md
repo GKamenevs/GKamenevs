@@ -1,18 +1,13 @@
 
-# Привет, меня зовут Алексей!
+# Hello, my name is George!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-            
+
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
